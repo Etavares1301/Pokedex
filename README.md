@@ -1,5 +1,7 @@
 <h1> Pokedex</h1>
 
+<h2>Projeto desenvolvido no curso de Angular</h2>
+
 <h2> Sobre o Projeto</h2>
 
 <p>Pokedex é uma aplicação frontend desenvolvida em angular na versão 14.2.</p>
